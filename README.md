@@ -13,30 +13,39 @@ This repo contains the full project for my Medium series on building a Facebook 
 **Part 2**
 
 ****.**** Create and use partials
+
 **.** Write a schema
+
 **.** Create the database
 
 **Part 3**
 
 **.** Connect to DB
+
 **.** Create, read and delete posts
 
 **Part 4**
 
 **.** User registration
+
 **.** Login
+
 **.** Logout
 
 **Part 5**
 
 **.** Display user profile
+
 **.** Edit/update profile
 
 **Part 6**
 
 **.** List users  
+
 **.** Send friend request
+
 **.** Accept/decline friend request
+
 **.** Unfriend user
 
 
