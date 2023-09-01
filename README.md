@@ -4,7 +4,7 @@ This repo contains the full project for my Medium series on building a Facebook 
 
 **Part 1**
 
-**-** Install the necessary apps (Django web framework,python and visual-studio code)
+#000000 Install the necessary apps (Django web framework,python and visual-studio code)
 
 **.** Explore the HTML template
 
