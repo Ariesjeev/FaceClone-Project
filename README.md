@@ -12,7 +12,7 @@ This repo contains the full project for my Medium series on building a Facebook 
 
 **Part 2**
 
-**.** Create and use partials
+****.**** Create and use partials
 **.** Write a schema
 **.** Create the database
 
@@ -38,5 +38,5 @@ This repo contains the full project for my Medium series on building a Facebook 
 **.** Send friend request
 **.** Accept/decline friend request
 **.** Unfriend user
-**.** hello 
+
 
