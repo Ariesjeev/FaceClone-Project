@@ -16,11 +16,7 @@ This repo contains the full project for my Medium series on building a Facebook 
 
 **.** Write a schema
 
-**.** Create the database
-
 **Part 3**
-
-**.** Connect to DB
 
 **.** Create, read and delete posts
 
